@@ -1,3 +1,5 @@
+var d3 = require('d3');
+
 /////////////////////////////////////////////////////////
 /////////////// The Radar Chart Function ////////////////
 /////////////// Written by Nadieh Bremer ////////////////
@@ -270,3 +272,7 @@ function RadarChart(id, data, options) {
     }//wrap
 
 }//RadarChart
+
+module.exports = RadarChart;
+
+
