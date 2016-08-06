@@ -1,0 +1,22 @@
+{
+  "name": "d3-radar-chart",
+  "version": "0.0.1",
+  "description": "NPM packaging of http://www.visualcinnamon.com/2015/10/different-look-d3-radar-chart.html",
+  "main": "index.js",
+  "dependencies": {
+    "d3": "~3.5.17"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/russgray/d3-radar-chart.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/russgray/d3-radar-chart/issues"
+  },
+  "homepage": "https://github.com/russgray/d3-radar-chart#readme"
+}
